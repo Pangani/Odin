@@ -1,0 +1,15 @@
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/debug_inspector-0.0.3/ext/debug_inspector
+/home/roy/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20191213-17920-f725af.rb extconf.rb
+creating Makefile
+
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20191213-17920-fntfse

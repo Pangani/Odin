@@ -1,0 +1,13 @@
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/json-1.8.6/ext/json
+/home/roy/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20191213-17920-atw4dz.rb extconf.rb
+creating Makefile
+
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/json-1.8.6/ext/json
+make "DESTDIR=" install

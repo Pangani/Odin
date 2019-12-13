@@ -1,0 +1,19 @@
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/byebug-11.0.1/ext/byebug
+/home/roy/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20191213-17920-16gl2qy.rb extconf.rb
+creating Makefile
+
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling locker.c
+compiling breakpoint.c
+compiling context.c
+compiling threads.c
+compiling byebug.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/roy/Documents/Rails-Project/odin_project/web_app/path/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20191213-17920-m8q4l6/byebug
